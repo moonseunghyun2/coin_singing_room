@@ -1,0 +1,26 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.coin-background{
+    
+    background-image: url("https://i.ytimg.com/vi/au2e47QSu_g/maxresdefault.jpg");
+    background-size:cover;
+    
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
